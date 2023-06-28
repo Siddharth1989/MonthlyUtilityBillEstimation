@@ -1,5 +1,5 @@
 # MonthlyUtilityBillPrediction
-The given dataset contains electricity consumer household information. This information has been used to predict the amount to be paid by the consumer with the help of regression model selection and validated with feature importance. Subset selection was used to select the best features for making the prediction. <br>
+The given dataset contains electricity consumer household information. This information has been used to predict the amount to be paid by the consumer with the help of regression model selection and validated with feature importance. Subset selection was used to select the best features for making the prediction. k-fold Cross Validation was used to improve model performance.<br>
 
 Please note the instructions for this project:
 
